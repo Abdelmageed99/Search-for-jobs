@@ -1,4 +1,4 @@
-This repo for search for job on Wuzzuf website
+This repo for search for jobs on Wuzzuf website
 
 Requirements :
 * BeautifulSoup 
